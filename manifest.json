@@ -14,7 +14,6 @@
     "default_title": "Open Imitate Email Settings"
   },
   "permissions": [
-    "scripting",
     "storage",
     "tabs"
   ],
